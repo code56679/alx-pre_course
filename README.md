@@ -1,2 +1,2 @@
-Alx Course is great
+My first readme
 my first commit on github.com
