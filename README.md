@@ -1,2 +1,2 @@
-My Frist Read me
-My First Commit on github.com
+My first readme
+my first Commit on github.com
